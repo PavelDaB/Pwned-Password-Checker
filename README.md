@@ -19,7 +19,7 @@ This Python script checks whether a password has been exposed in a data breach u
 - `hashlib` library (to turn your password into a secure hash algorithm)
 - `sys` library (to input your password using your terminal)
   
-To install the required library, use:
+To install the required libraries, use:
 ```bash
 pip install requests
 pip install haslib
