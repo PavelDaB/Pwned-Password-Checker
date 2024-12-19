@@ -20,3 +20,7 @@ This Python script checks whether a password has been exposed in a data breach u
 To install the required library, use:
 ```bash
 pip install requests
+```bash
+pip install haslib
+```bash
+pip install sys
