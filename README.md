@@ -15,8 +15,10 @@ This Python script checks whether a password has been exposed in a data breach u
 
 ## Requirements
 - Python 3.x
-- `requests` library
-
+- `requests` library (for API usage)
+- `hashlib` library (to turn your password into a secure hash algorithm)
+- `sys` library (to input your password using your terminal)
+  
 To install the required library, use:
 ```bash
 pip install requests
